@@ -4,6 +4,5 @@ public class Biodata {
         System.out.println("NIM      : 261301010");
         System.out.println("Jurusan  : Sistem Komputer");
         System.out.println("Universitas: Universitas Nahdlatul Ulama");
-        
     }
 }
